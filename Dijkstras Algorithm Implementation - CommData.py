@@ -5,7 +5,7 @@ Created on Fri Mar 13 11:07:48 2020
 @author: mtrent
 """
 
-#Question 1
+
 #Read in the data
 import pandas as pd
 
